@@ -1,0 +1,4 @@
+name: StateTeams
+version: '${project.version}'
+main: state.StateTeams.Plugin
+api-version: 1.18
